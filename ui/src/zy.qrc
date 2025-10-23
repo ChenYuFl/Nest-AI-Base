@@ -1,0 +1,7 @@
+<RCC>
+  <qresource prefix="di">
+    <file>d1-2.png</file>
+    <file>d1-1.png</file>
+  </qresource>
+  <qresource prefix="set"/>
+</RCC>
